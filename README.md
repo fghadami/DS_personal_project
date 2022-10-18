@@ -1,1 +1,1 @@
-# DS_personal_project
+# DS_personal_projects
